@@ -1,4 +1,4 @@
-import banco.Banco;
+import atividade7.Banco;
 
 import java.util.Scanner;
 

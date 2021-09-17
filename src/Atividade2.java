@@ -1,4 +1,4 @@
-import produtos.Produtos;
+import atividade2.Produtos;
 
 import java.util.Scanner;
 

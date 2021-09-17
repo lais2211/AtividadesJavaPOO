@@ -1,4 +1,4 @@
-import dolar.Dolar;
+import atividade6.Dolar;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package banco;
+package atividade7;
 
 import java.io.InputStream;
 
@@ -50,7 +50,7 @@ public class Banco {
         return total - 5;
     }
 
-    ;
+
 
     public double calcularResultadoNovoDeposito() {
         return deposito + depositoNovo;

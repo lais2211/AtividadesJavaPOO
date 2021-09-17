@@ -1,4 +1,4 @@
-import retangulo.Retangulo;
+import atividade3.Retangulo;
 
 import java.util.Scanner;
 

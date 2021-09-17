@@ -1,4 +1,4 @@
-import estudante.Estudante;
+import atividade5.Estudante;
 
 import java.util.Scanner;
 

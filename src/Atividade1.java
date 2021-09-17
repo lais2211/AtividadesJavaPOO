@@ -1,4 +1,4 @@
-import triangulo.Triangulo;
+import atividade1.Triangulo;
 
 import java.util.Scanner;
 

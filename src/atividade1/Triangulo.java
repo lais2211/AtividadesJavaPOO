@@ -1,4 +1,4 @@
-package triangulo;
+package atividade1;
 
 public class Triangulo {
     public double a;

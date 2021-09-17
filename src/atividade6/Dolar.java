@@ -1,4 +1,4 @@
-package dolar;
+package atividade6;
 
 public class Dolar {
     public double valor;

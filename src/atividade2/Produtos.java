@@ -1,4 +1,4 @@
-package produtos;
+package atividade2;
 
 public class Produtos {
     public String nome;
@@ -18,5 +18,5 @@ public class Produtos {
         this.quantidade -= quantidade;
     }
 
-    ;
+
 }

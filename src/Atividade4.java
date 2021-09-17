@@ -1,4 +1,4 @@
-import funcionario.Funcionario;
+import atividade4.Funcionario;
 
 import java.util.Scanner;
 
