@@ -162,5 +162,5 @@ public class Atividade8 {
                 System.out.println("Muito obrigada pela atenção! Tenha um bom dia!");
             }
         }
-    }
+    sc.close();}
 }
