@@ -2,7 +2,7 @@ package atividade8;
 
 public class ContaPoupança extends ContaCpf {
 
-    private Double taxaJuros;
+    private Double taxaJuros = 0.01;
 
     public ContaPoupança() {
     }
