@@ -16,12 +16,10 @@ public class ContaCnpj extends ContaCpf {
         this.limiteEmprestimo = limiteEmprestimo;
     }
 
-    public void emprestimos (Double valor) {
+    public void emprestimos(Double valor) {
         if (valor <= limiteEmprestimo) {
             Double somaEmp = valor + saldo;
-        }
-
-        else {
+        } else {
             System.out.println("Emprestimo invalido.");
         }
 

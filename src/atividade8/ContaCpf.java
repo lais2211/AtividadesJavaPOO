@@ -52,7 +52,7 @@ public class ContaCpf {
 
         public double somaSaque (Double saque) {
 
-            return saldo = saldo - saque;
+            return saldo = saldo - (saque+5);
 
         }
 
@@ -65,9 +65,9 @@ public class ContaCpf {
     public String toString() {
         return "O titular da conta é: "
                 + titular
-                +" com CPF: "
-                        +numero
-                +" tem o saldo de: R$"
+                + " com CPF: "
+                + numero
+                + " tem o saldo de: R$"
                 + saldo;
 
     }
