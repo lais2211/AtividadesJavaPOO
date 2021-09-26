@@ -65,7 +65,7 @@ public class Atividade10 {
 
             }
 
-        }
+       sc.close(); }
 
 
     }

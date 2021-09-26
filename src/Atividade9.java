@@ -51,5 +51,5 @@ public class Atividade9 {
 
         }
 
-    }
+sc.close();    }
 }
