@@ -18,8 +18,9 @@ public class Retangulo extends Forma{
     }
 
     @Override
-    public Double area() {
-        return largura*altura;
+    public String area() {
+        Double valor= largura*altura;
+        return "A area do retangulo é de: " + valor + ", e sua cor é de: "+ getCor();
     }
 
 

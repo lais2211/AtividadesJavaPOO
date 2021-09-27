@@ -14,7 +14,8 @@ public class Circulo extends Forma {
     }
 
     @Override
-    public Double area() {
-        return 3.14*raio ;
+    public String area() {
+        Double valor =  3.14*raio ;
+        return "A area do circulo é de: " + valor + ", e sua cor é de: "+ getCor();
     }
 }

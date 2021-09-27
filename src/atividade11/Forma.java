@@ -18,6 +18,6 @@ public abstract class  Forma {
         this.cor = cor;
     }
 
-    public abstract Double area ();
+    public abstract String area ();
 
 }
